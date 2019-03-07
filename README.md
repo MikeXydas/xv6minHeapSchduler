@@ -1,4 +1,4 @@
-# xv6minHeapSchduler
+# xv6minHeapScheduler
 Implementing a minHeapScheduler replacing the default round-robin
 
 The files if you would like to test them, should be pasted in a clean xv6 directory I have only added new files and default xv6 files that I have changed
